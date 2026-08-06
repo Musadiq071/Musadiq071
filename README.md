@@ -43,18 +43,9 @@ A real-time educational communication platform featuring WebSocket messaging, au
 
 </div>
 
-## GitHub snapshot
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Musadiq071&show_icons=true&hide_title=true&hide_border=true&theme=transparent" alt="Musadiq's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Musadiq071&layout=compact&hide_border=true&theme=transparent" alt="Musadiq's most-used languages" />
-
-</div>
-
 ---
 
 <div align="center">
 <sub>Always learning. Always building.</sub>
 </div>
-# Musadiq071
+
