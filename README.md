@@ -15,7 +15,7 @@
 I'm a software developer who enjoys turning real operational problems into dependable software. My work spans Python backends, REST APIs, real-time applications, asynchronous processing and containerised deployments.
 
 - 🔭 Building an **API-first logistics management platform**
-- 🌱 Strengthening my knowledge of **data structures, algorithms and scalable system design**
+- 🌱 Deepening my knowledge of **AI engineering, distributed systems and scalable software architecture**
 - 🤝 Open to collaborating on **Python, Django and backend engineering projects**
 - 💬 Ask me about **Python, Django, Flask, REST APIs, PostgreSQL, Redis or Docker**
 
