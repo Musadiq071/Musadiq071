@@ -27,7 +27,7 @@ An asynchronous document-generation service designed to move CPU-intensive PDF p
 
 `Python` `Flask` `Celery` `Redis` `Docker` `Pydantic` `Swagger`
 
-### [ClassCraic](https://github.com/Musadiq071/ClassCraic)
+### [ClassCraic ChatApp](https://github.com/Musadiq071/ClassCraic_ChatApp)
 
 A real-time educational communication platform featuring WebSocket messaging, authentication, private conversations, file sharing and role-based access.
 
